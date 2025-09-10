@@ -15,9 +15,9 @@ Executive Summary & Introduction
 
 Campaign Objectives & Methodology
 
-Mock Campaign Data (5 Platforms)
+Mock Campaign Data
 
-Charts & Graphs (Bar, Pie, Line, Stacked Bar)
+Charts & Graphs
 
 Insights & Findings
 
@@ -27,32 +27,12 @@ Ads Mockups (Canva Designs)
 
 Conclusion + References
 
-## Insights
-
-SEO delivered the highest reach (12,000 impressions) and conversions (180).
-
-Instagram Ads showed high engagement (800 clicks, 8% CTR).
-
-Facebook Ads performed moderately, while Email marketing underperformed.
-
-Overall, data highlighted the need for better targeting & personalization.
-
-## Recommendations
-
-Allocate higher budgets to SEO and Instagram.
-
-Strengthen targeting for Facebook campaigns.
-
-Personalize email content to improve open and click rates.
-
-Use A/B testing to refine ad creatives and strategy.
-
 ## Note
 
 This project does not include executable code.
 It focuses on campaign analytics, visualization, and recommendations as part of the GUVI–HCL Digital Marketing Project.
 
 ## **Warm Regards**,
-   **Anshul Khare**
-   **Roll No: 2312RES981**
-   **IIT Patna**
+ - **Anshul Khare**
+ - **Roll No: 2312RES981**
+ - **IIT Patna**
