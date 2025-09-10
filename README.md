@@ -23,7 +23,7 @@ Insights & Findings
 
 Recommendations for Future Campaigns
 
-Ads Mockups (Canva Designs)
+Ads Mockups 
 
 Conclusion + References
 
