@@ -1,15 +1,15 @@
-Caffeora – Social Media Campaign Performance Analysis
+# Caffeora – Social Media Campaign Performance Analysis
 
 Project Type: Campaign Analytics & Performance Evaluation
 Tools Used: Canva, MS Excel, Google Charts
 Platforms Analyzed: Instagram, Facebook, Google Ads, SEO, Email
 Duration: Mock 4-Week Campaign
 
- ##Objective
+ # Objective
 
 To evaluate the performance of Caffeora Café’s mock digital marketing campaigns by analyzing engagement metrics such as impressions, clicks, CTR, and conversions across multiple platforms, and to generate actionable insights for future campaigns.
 
-📊 Deliverables
+# Deliverables
 
 Executive Summary & Introduction
 
@@ -27,7 +27,7 @@ Ads Mockups (Canva Designs)
 
 Conclusion + References
 
-📈 Insights
+# Insights
 
 SEO delivered the highest reach (12,000 impressions) and conversions (180).
 
@@ -37,7 +37,7 @@ Facebook Ads performed moderately, while Email marketing underperformed.
 
 Overall, data highlighted the need for better targeting & personalization.
 
-🚀 Recommendations
+# Recommendations
 
 Allocate higher budgets to SEO and Instagram.
 
@@ -47,7 +47,7 @@ Personalize email content to improve open and click rates.
 
 Use A/B testing to refine ad creatives and strategy.
 
-📌 Note
+# Note
 
 This project does not include executable code.
 It focuses on campaign analytics, visualization, and recommendations as part of the GUVI–HCL Digital Marketing Project.
