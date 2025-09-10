@@ -5,7 +5,7 @@ Tools Used: Canva, MS Excel, Google Charts
 Platforms Analyzed: Instagram, Facebook, Google Ads, SEO, Email
 Duration: Mock 4-Week Campaign
 
-📌 Objective
+ ##Objective
 
 To evaluate the performance of Caffeora Café’s mock digital marketing campaigns by analyzing engagement metrics such as impressions, clicks, CTR, and conversions across multiple platforms, and to generate actionable insights for future campaigns.
 
